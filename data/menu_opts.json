@@ -25,6 +25,16 @@
             "ruta" : "inputs",
             "icon" : "input",
             "texto": "Ejemplo de Inputs"
+        },
+        {
+            "ruta" : "slider",
+            "icon" : "tune",
+            "texto": "Ejemplo de Slider"
+        },
+        {
+            "ruta" : "list",
+            "icon" : "list",
+            "texto": "Ejemplo de ListView"
         }
     ]
 }
